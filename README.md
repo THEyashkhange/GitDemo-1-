@@ -1,2 +1,2 @@
 # GitDemo-1-
-author: yash khange 
+author: Yash Khange 
